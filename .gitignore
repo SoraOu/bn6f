@@ -60,3 +60,4 @@ temp/
 *.cfg
 *.rsync
 *.sym
+*.gba
