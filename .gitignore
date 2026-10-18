@@ -61,3 +61,4 @@ temp/
 *.rsync
 *.sym
 *.gba
+compare
