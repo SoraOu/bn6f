@@ -54,7 +54,7 @@ ChipDataArr_8021DA8::
 		library_flags: 0x00,
 		lock_on_type: 0x01,
 		alphabet_sort_pos: 0x0034,
-		attack_power: 0x0028,
+		attack_power: 0x0064,
 		id_sort_pos: 0x0001,
 		chip_gate_usage_limit: 0x03,
 		dark_chip_id: 0xFF,
